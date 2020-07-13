@@ -7230,7 +7230,59 @@
 <part id="3728" type="ca"/>
 <part id="3729" type="ca"/>
 </lib>
-	   <lib id="hh_human_shirt" revision="33155">
+<lib id="shirt_F_h20th" revision="990000394">
+<part id="3779" type="ch"/>
+<part id="3779" type="ls"/>
+<part id="3779" type="rs"/>
+</lib>
+<lib id="shirt_M_h20th" revision="990000395">
+<part id="3778" type="ch"/>
+<part id="3778" type="ls"/>
+<part id="3778" type="rs"/>
+</lib>
+<lib id="shirt_F_kimono" revision="990000396">
+<part id="2621" type="ch"/>
+<part id="2621" type="ls"/>
+<part id="2621" type="rs"/>
+<part id="2622" type="ch"/>
+<part id="2623" type="ch"/>
+</lib>
+<lib id="acc_eye_U_mumglasses8" revision="990000397">
+<part id="8996" type="ea"/>
+<part id="8516" type="ea"/>
+</lib>
+<lib id="jacket_U_pumpkinoutfit" revision="990000398">
+<part id="3791" type="cc"/>
+</lib>
+<lib id="trousers_U_pumpkinoutfit" revision="990000399">
+<part id="3792" type="lg"/>
+</lib>
+<lib id="hat_U_pumpkinoutfit" revision="990000400">
+<part id="3787" type="ha"/>
+</lib>
+<lib id="trousers_U_webskirt" revision="990000401">
+<part id="3793" type="lg"/>
+<part id="3794" type="lg"/>
+</lib>
+<lib id="acc_chest_U_pumpkinbag" revision="990000402">
+<part id="3780" type="ca"/>
+<part id="3781" type="ca"/>
+<part id="3782" type="ca"/>
+</lib>
+<lib id="hat_U_crookedhat" revision="990000403">
+<part id="3784" type="ha"/>
+<part id="3785" type="ha"/>
+<part id="3786" type="ha"/>
+</lib>
+<lib id="hat_U_ghost" revision="990000404">
+<part id="3783" type="ha"/>
+</lib>
+<lib id="hat_U_tentaclehead" revision="990000405">
+<part id="3788" type="ha"/>
+<part id="3789" type="ha"/>
+<part id="3790" type="ha"/>
+</lib>
+   <lib id="hh_human_shirt" revision="33155">
         <part id="1" type="ch" />
         <part id="1" type="rs" />
         <part id="1" type="ls" />
