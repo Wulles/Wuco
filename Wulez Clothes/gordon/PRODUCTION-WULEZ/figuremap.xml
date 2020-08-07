@@ -7282,6 +7282,38 @@
 <part id="3789" type="ha"/>
 <part id="3790" type="ha"/>
 </lib>
+<lib id="acc_face_U_clownmask" revision="990000406">
+<part id="3795" type="fa"/>
+</lib>
+<lib id="face_U_cyborgface" revision="990000407">
+<part id="3799" type="hd"/>
+<part id="3799" type="ey"/>
+<part id="3799" type="fc"/>
+</lib>
+<lib id="acc_face_U_cygasmask" revision="990000408">
+<part id="3796" type="fa"/>
+<part id="3797" type="fa"/>
+<part id="3798" type="fa"/>
+</lib>
+<lib id="shoes_U_cytrainers" revision="990000409">
+<part id="3801" type="sh"/>
+<part id="3802" type="sh"/>
+<part id="3803" type="sh"/>
+</lib>
+<lib id="trousers_U_cylegs" revision="990000410">
+<part id="3804" type="lg"/>
+<part id="3805" type="lg"/>
+</lib>
+<lib id="hat_U_cyhelmet" revision="990000411">
+<part id="3806" type="ha"/>
+<part id="3807" type="ha"/>
+<part id="3808" type="ha"/>
+</lib>
+<lib id="acc_head_U_cyfins" revision="990000412">
+<part id="3809" type="he"/>
+<part id="3810" type="he"/>
+<part id="3811" type="he"/>
+</lib>
    <lib id="hh_human_shirt" revision="33155">
         <part id="1" type="ch" />
         <part id="1" type="rs" />
