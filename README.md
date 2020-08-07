@@ -9,7 +9,7 @@ Wulez Clothes are a custom clothings project for Retros based at Brazilians retr
 
 > Work with all SWFs and Arcturus Releases.
 
-> Last update: News *Halloween 2020*, *Latests from July* clothes and some *New Customs*.
+> Last update: News *Latests from August* clothes and some *New Customs*.
 
 ### Contact and Suport
 
