@@ -7314,6 +7314,86 @@
 <part id="3810" type="he"/>
 <part id="3811" type="he"/>
 </lib>
+<lib id="acc_eye_cyeyepiece" revision="990000413">
+<part id="3814" type="ea"/>
+<part id="3815" type="ea"/>
+</lib>
+<lib id="hair_U_cybuns" revision="990000414">
+<part id="3812" type="hr"/>
+<part id="3812" type="hrb"/>
+<part id="3813" type="hr"/>
+</lib>
+<lib id="jacket_U_cyborgwings" revision="990000415">
+<part id="3824" type="cc"/>
+<part id="3824" type="lc"/>
+<part id="3824" type="rc"/>
+<part id="3825" type="cc"/>
+<part id="3826" type="cc"/>
+</lib>
+<lib id="face_U_multieyesface" revision="990000416">
+<part id="3817" type="ey"/>
+</lib>
+<lib id="acc_head_U_wingstiara" revision="990000417">
+<part id="3816" type="he"/>
+</lib>
+<lib id="hair_U_possessedhair" revision="990000418">
+<part id="3819" type="hr"/>
+<part id="3819" type="hrb"/>
+<part id="3820" type="hr"/>
+</lib>
+<lib id="shirt_U_cychest" revision="990000419">
+<part id="3821" type="ch"/>
+<part id="3821" type="ls"/>
+<part id="3821" type="rs"/>
+<part id="3822" type="ch"/>
+<part id="3823" type="ch"/>
+</lib>
+<lib id="jacket_U_dragonflywings" revision="990000420">
+    <part id="3938" type="cc"/>
+    <part id="3938" type="lc"/>
+    <part id="3938" type="rc"/>
+</lib>
+<lib id="hair_U_braidedwavyhair" revision="990000421">
+    <part id="3935" type="hr"/>
+    <part id="3935" type="hrb"/>
+    <part id="3936" type="hr"/>
+    <part id="3937" type="hr"/>
+</lib>
+<lib id="trousers_U_kiltskirt" revision="990000422">
+<part id="3942" type="lg"/>
+<part id="3943" type="lg"/>
+<part id="3944" type="lg"/>
+</lib>
+<lib id="jacket_U_kilt" revision="990000423">
+<part id="3939" type="cc"/>
+<part id="3939" type="lc"/>
+<part id="3939" type="rc"/>
+<part id="3940" type="cc"/>
+<part id="3941" type="cc"/>
+</lib>
+<lib id="acc_waist_U_lanternstaff" revision="990000424">
+<part id="3945" type="wa"/>
+</lib>
+<lib id="jacket_M_inuit" revision="990000425">
+<part id="3829" type="cc"/>
+<part id="3829" type="lc"/>
+<part id="3829" type="rc"/>
+<part id="3830" type="cc"/>
+</lib>
+<lib id="jacket_F_inuit" revision="990000426">
+<part id="3931" type="cc"/>
+<part id="3931" type="lc"/>
+<part id="3931" type="rc"/>
+<part id="3932" type="cc"/>
+</lib>
+<lib id="shoes_U_inuit" revision="990000427">
+<part id="3933" type="sh"/>
+<part id="3934" type="sh"/>
+</lib>
+<lib id="hat_U_inuithood" revision="990000428">
+<part id="3827" type="ha"/>
+<part id="3828" type="ha"/>
+</lib>
    <lib id="hh_human_shirt" revision="33155">
         <part id="1" type="ch" />
         <part id="1" type="rs" />
