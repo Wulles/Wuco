@@ -2342,9 +2342,6 @@
     <part id="4988" type="ca"/>
     <part id="4987" type="ca"/>
     </lib>
-	<lib id="acc_chest_U_sepr" revision="987462886">
-    <part id="3949" type="ca"/>
-    </lib>
 	<lib id="acc_face_U_hlow3" revision="987462885">
     <part id="3820" type="fa"/>
     </lib>
@@ -7393,6 +7390,30 @@
 <lib id="hat_U_inuithood" revision="990000428">
 <part id="3827" type="ha"/>
 <part id="3828" type="ha"/>
+</lib>
+<lib id="acc_chest_U_teddybpack" revision="990000429">
+<part id="3949" type="ca"/>
+<part id="3950" type="ca"/>
+<part id="3951" type="ca"/>
+</lib>
+<lib id="hat_U_unicornrainbow" revision="990000430">
+<part id="3952" type="ha"/>
+<part id="3953" type="ha"/>
+<part id="3954" type="ha"/>
+</lib>
+<lib id="acc_waist_U_beartail" revision="990000431">
+<part id="3958" type="wa"/>
+</lib>
+<lib id="jacket_U_bearpaws" revision="990000432">
+<part id="3959" type="cc"/>
+<part id="3959" type="lc"/>
+<part id="3959" type="rc"/>
+<part id="3960" type="cc"/>
+</lib>
+<lib id="hat_U_bearhat" revision="990000433">
+<part id="3955" type="ha"/>
+<part id="3956" type="ha"/>
+<part id="3957" type="ha"/>
 </lib>
    <lib id="hh_human_shirt" revision="33155">
         <part id="1" type="ch" />
