@@ -23,6 +23,7 @@ Wulez Clothes are a custom clothings project for Retros based at Brazilians retr
 * Wulles: Project.
 * Wesley: Arcturus.
 * Krews: Arcturus MorningStar.
+* HabboCity: Custom clothes.
 
 ### Note
 
