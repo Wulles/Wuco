@@ -9,20 +9,22 @@ Wulez Clothes are a custom clothings project for Retros based at Brazilians retr
 
 > Work with all SWFs, all Emulators, all all.
 
-> Last update: *10, november, 2020*.
+> Last update: *5, january, 2021* - The last update.
 
-### What folder?
+### Flash is over and probably with it will access those files that help us to copy, what we have left is to wait, and in the meantime, this is the last update.
+
+## What folder?
 
 * Habbo Clothes - The normal clothes, from original habbo.
 * Wulez Clothes - The normal and custom clothes, from habbocity and others retros.
 
-### Contact and Suport
+## Contact and Suport
 
 > Discord: Hensa#8393
 
 > For issues, you can tell me on my discord or you can create a Issue in this Github.
 
-### Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
+## Credits and Acknowledgments <img src="https://raw.githubusercontent.com/Wulles/eyethatseeseverything/master/icon_10.png">
 
 * Habbo.
 * Wulles: Project.
@@ -30,6 +32,6 @@ Wulez Clothes are a custom clothings project for Retros based at Brazilians retr
 * Krews: Arcturus MorningStar.
 * HabboCity: Custom clothes.
 
-### Note
+## Note
 
 > This is only a Clothes archives, we don't update effects or anything other than clothes.
