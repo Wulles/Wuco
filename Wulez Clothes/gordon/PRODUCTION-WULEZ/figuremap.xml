@@ -7415,6 +7415,559 @@
 <part id="3956" type="ha"/>
 <part id="3957" type="ha"/>
 </lib>
+<lib id="hat_U_hcityjord" revision="990000434">
+<part id="5030" type="ha"/>
+<part id="5031" type="ha"/>
+</lib>
+<lib id="hat_U_hcitynike" revision="990000435">
+<part id="5028" type="ha"/>
+<part id="5029" type="ha"/>
+</lib>
+<lib id="hat_U_hcitynwyk" revision="990000436">
+<part id="5024" type="ha"/>
+<part id="5025" type="ha"/>
+</lib>
+<lib id="hat_U_hcitylaco" revision="990000437">
+<part id="5026" type="ha"/>
+<part id="5027" type="ha"/>
+</lib>
+<lib id="hat_U_marshmall" revision="990000438">
+<part id="5098" type="ha"/>
+</lib>
+<lib id="acc_head_U_angelears" revision="990000439">
+<part id="29799" type="he"/>
+</lib>
+<lib id="acc_chest_U_CityWeen1" revision="990000440">
+<part id="5202" type="ca"/>
+</lib>
+<lib id="acc_print_U_justdoi" revision="990000441">
+<part id="5016" type="cp"/>
+</lib>
+<lib id="acc_head_U_wingears" revision="990000442">
+<part id="29800" type="he"/>
+</lib>
+<lib id="acc_print_U_guccihc" revision="990000443">
+<part id="5014" type="cp"/>
+</lib>
+<lib id="acc_chest_U_devilwings" revision="990000444">
+<part id="31755" type="ca"/>
+</lib>
+<lib id="acc_face_U_antiPween" revision="990000445">
+<part id="5200" type="fa"/>
+<part id="5201" type="fa"/>
+</lib>
+<lib id="acc_chest_U_angelwings" revision="990000446">
+<part id="31756" type="ca"/>
+</lib>
+<lib id="face_U_rise2" revision="990000447">
+<part id="7875" type="hd"/>
+<part id="7875" type="ey"/>
+<part id="7875" type="fc"/>
+</lib>
+<lib id="jacket_M_PhilippPlein1" revision="990000450">
+<part id="5102" type="cc"/>
+<part id="5102" type="lc"/>
+<part id="5102" type="rc"/>
+<part id="5103" type="cc"/>
+</lib>
+<lib id="acc_chest_U_Hcchannel" revision="990000451">
+<part id="5090" type="ca"/>
+<part id="5091" type="ca"/>
+</lib>
+<lib id="acc_chest_U_HcityDior" revision="990000452">
+<part id="5092" type="ca"/>
+<part id="5093" type="ca"/>
+</lib>
+<lib id="acc_waist_U_dio1" revision="990000453">
+<part id="5078" type="cc"/>
+<part id="5078" type="lc"/>
+<part id="5078" type="rc"/>
+<part id="5079" type="cc"/>
+</lib>
+<lib id="acc_waist_U_chal" revision="990000454">
+<part id="5088" type="cc"/>
+<part id="5088" type="lc"/>
+<part id="5088" type="rc"/>
+<part id="5089" type="cc"/>
+</lib>
+<lib id="acc_print_U_lacoste" revision="990000455">
+<part id="5094" type="cp"/>
+<part id="5095" type="cp"/>
+</lib>
+<lib id="acc_waist_U_jacquewu" revision="990000456">
+<part id="5074" type="cc"/>
+<part id="5074" type="lc"/>
+<part id="5074" type="rc"/>
+</lib>
+<lib id="face_U_chiseledface" revision="990000457">
+<part id="3762" type="hd"/>
+<part id="3762" type="fc"/>
+<part id="3763" type="ey"/>
+</lib>
+<lib id="hat_U_gold1" revision="990000458">
+<part id="3969" type="ha"/>
+</lib>
+<lib id="hat_U_gold2" revision="990000459">
+<part id="3970" type="ha"/>
+</lib>
+<lib id="hat_U_gold3" revision="990000460">
+<part id="3971" type="ha"/>
+</lib>
+<lib id="hat_U_gold4" revision="990000461">
+<part id="3972" type="ha"/>
+</lib>
+<lib id="hat_U_gold5" revision="990000462">
+<part id="3973" type="ha"/>
+</lib>
+<lib id="hat_U_gold6" revision="990000463">
+<part id="3974" type="ha"/>
+</lib>
+<lib id="hat_U_gold7" revision="990000464">
+<part id="3975" type="ha"/>
+</lib>
+<lib id="hat_U_gold8" revision="990000465">
+<part id="3976" type="ha"/>
+</lib>
+<lib id="acc_face_U_nyfacemask1" revision="990000466">
+<part id="3961" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask2" revision="990000467">
+<part id="3962" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask3" revision="990000468">
+<part id="3963" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask4" revision="990000469">
+<part id="3964" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask5" revision="990000470">
+<part id="3965" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask6" revision="990000471">
+<part id="3966" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask7" revision="990000472">
+<part id="3967" type="fa"/>
+</lib>
+<lib id="acc_face_U_nyfacemask8" revision="990000473">
+<part id="3968" type="fa"/>
+</lib>
+<lib id="acc_head_U_oxhorns" revision="990000474">
+<part id="3978" type="he"/>
+<part id="3979" type="he"/>
+<part id="3980" type="he"/>
+</lib>
+<lib id="acc_waist_U_oxtail" revision="990000475">
+<part id="3981" type="wa"/>
+<part id="3982" type="wa"/>
+</lib>
+<lib id="acc_face_U_oxnosering" revision="990000476">
+<part id="3977" type="fa"/>
+</lib>
+<lib id="hat_U_sunnycloudhat" revision="990000477">
+<part id="3983" type="ha"/>
+</lib>
+<lib id="acc_hcity_U_cetgucci" revision="990000478">
+<part id="5044" type="wa"/>
+</lib>
+<lib id="acc_print_U_hctommy" revision="990000479">
+<part id="5096" type="cp"/>
+<part id="5097" type="cp"/>
+</lib>
+<lib id="hair_F_melinda1" revision="990000480">
+<part id="8700" type="hr"/>
+<part id="8700" type="hrb"/>
+</lib>
+<lib id="hair_F_melinda2" revision="990000481">
+<part id="8705" type="hr"/>
+<part id="8705" type="hrb"/>
+</lib>
+<lib id="Shirt_F_Tshirt_Vestenk" revision="990000482">
+<part id="5006" type="ch"/>
+<part id="5006" type="ls"/>
+<part id="5006" type="rs"/>
+<part id="5007" type="ch"/>
+</lib>
+<lib id="Shirt_M_Tshirt_Vestenk" revision="990000483">
+<part id="5008" type="ch"/>
+<part id="5008" type="ls"/>
+<part id="5008" type="rs"/>
+<part id="5009" type="ch"/>
+</lib>
+<lib id="Shirt_F_Tshirt_Nikesht" revision="990000484">
+<part id="5010" type="ch"/>
+<part id="5010" type="ls"/>
+<part id="5010" type="rs"/>
+<part id="5011" type="ch"/>
+</lib>
+<lib id="Shirt_M_Tshirt_Nikesht" revision="990000485">
+<part id="5012" type="ch"/>
+<part id="5012" type="ls"/>
+<part id="5012" type="rs"/>
+<part id="5013" type="ch"/>
+</lib>
+<lib id="trousers_U_adidaspants" revision="990000486">
+<part id="5107" type="lg"/>
+<part id="5108" type="lg"/>
+<part id="5109" type="lg"/>
+</lib>
+<lib id="trousers_U_nikehcity20" revision="990000487">
+<part id="5111" type="lg"/>
+<part id="5112" type="lg"/>
+<part id="5113" type="lg"/>
+</lib>
+<lib id="bsstonino_U_mascheradafesta1" revision="990000488">
+<part id="8005" type="fa"/>
+</lib>
+<lib id="bsstonino_U_mascheradafesta2" revision="990000489">
+<part id="8006" type="fa"/>
+</lib>
+<lib id="bsstonino_U_mascheradafesta3" revision="990000490">
+<part id="8007" type="fa"/>
+</lib>
+<lib id="bsstonino_U_mascheradafesta4" revision="990000491">
+<part id="8008" type="fa"/>
+</lib>
+<lib id="bssitalia_U_miniorsobianco" revision="990000492">
+<part id="9183" type="ha"/>
+</lib>
+<lib id="bssitalia_U_miniorsorosa" revision="990000493">
+<part id="9184" type="ha"/>
+</lib>
+<lib id="bssitalia_U_miniorsorosso" revision="990000494">
+<part id="9185" type="ha"/>
+</lib>
+<lib id="bssitalia_U_miniorsogiallo" revision="990000495">
+<part id="9186" type="ha"/>
+</lib>
+<lib id="bsstonino_U_kermitlarana" revision="990000496">
+<part id="7771" type="ha"/>
+</lib>
+<lib id="bssitalia_U_occhialifighiblu" revision="990000497">
+<part id="9125" type="ea"/>
+</lib>
+<lib id="bssitalia_U_bendablu" revision="990000498">
+<part id="9126" type="ea"/>
+</lib>
+<lib id="bssitalia_U_mascherablu" revision="990000499">
+<part id="9127" type="ea"/>
+</lib>
+<lib id="bssitalia_U_occhialiblu" revision="990000500">
+<part id="9128" type="ea"/>
+</lib>
+<lib id="bssitalia_U_occhialidiscoblu" revision="990000501">
+<part id="9129" type="ea"/>
+</lib>
+<lib id="shirt_F_galaxydress" revision="990000502">
+<part id="3987" type="ch"/>
+<part id="3987" type="ls"/>
+<part id="3987" type="rs"/>
+<part id="3988" type="ch"/>
+<part id="3989" type="ch"/>
+</lib>
+<lib id="shirt_F_offshoulderjumpsuit" revision="990000503">
+<part id="3996" type="ch"/>
+<part id="3996" type="ls"/>
+<part id="3996" type="rs"/>
+<part id="3997" type="ch"/>
+<part id="3998" type="ch"/>
+</lib>
+<lib id="shirt_M_galaxydress" revision="990000504">
+<part id="3984" type="ch"/>
+<part id="3984" type="ls"/>
+<part id="3984" type="rs"/>
+<part id="3985" type="ch"/>
+<part id="3986" type="ch"/>
+</lib>
+<lib id="shirt_M_offshoulderjumpsuit" revision="990000505">
+<part id="3999" type="ch"/>
+<part id="3999" type="ls"/>
+<part id="3999" type="rs"/>
+<part id="4000" type="ch"/>
+<part id="4001" type="ch"/>
+</lib>
+<lib id="jacket_M_darkhoodie" revision="990000506">
+<part id="4012" type="cc"/>
+<part id="4012" type="lc"/>
+<part id="4012" type="rc"/>
+</lib>
+<lib id="jacket_F_darkhoodie" revision="990000507">
+<part id="4009" type="cc"/>
+<part id="4009" type="lc"/>
+<part id="4009" type="rc"/>
+</lib>
+<lib id="jacket_F_tiedyehoodie" revision="990000508">
+<part id="4010" type="cc"/>
+<part id="4010" type="lc"/>
+<part id="4010" type="rc"/>
+</lib>
+<lib id="jacket_M_tiedyehoodie" revision="990000509">
+<part id="4013" type="cc"/>
+<part id="4013" type="lc"/>
+<part id="4013" type="rc"/>
+</lib>
+<lib id="jacket_F_camohoodie" revision="990000510">
+<part id="4008" type="cc"/>
+<part id="4008" type="lc"/>
+<part id="4008" type="rc"/>
+</lib>
+<lib id="jacket_M_camohoodie" revision="990000511">
+<part id="4011" type="cc"/>
+<part id="4011" type="lc"/>
+<part id="4011" type="rc"/>
+</lib>
+<lib id="jacket_U_leathergloves" revision="990000512">
+<part id="4024" type="cc"/>
+<part id="4024" type="lc"/>
+<part id="4024" type="rc"/>
+<part id="4025" type="cc"/>
+</lib>
+<lib id="shirt_F_tiedyecroptop" revision="990000513">
+<part id="4004" type="ch"/>
+<part id="4004" type="ls"/>
+<part id="4004" type="rs"/>
+</lib>
+<lib id="shirt_F_darkcroptop" revision="990000514">
+<part id="4003" type="ch"/>
+<part id="4003" type="ls"/>
+<part id="4003" type="rs"/>
+</lib>
+<lib id="shirt_M_darkcroptop" revision="990000515">
+<part id="4006" type="ch"/>
+<part id="4006" type="ls"/>
+<part id="4006" type="rs"/>
+</lib>
+<lib id="shirt_M_tiedyecroptop" revision="990000516">
+<part id="4007" type="ch"/>
+<part id="4007" type="ls"/>
+<part id="4007" type="rs"/>
+</lib>
+<lib id="shirt_F_camocroptop" revision="990000517">
+<part id="4002" type="ch"/>
+<part id="4002" type="ls"/>
+<part id="4002" type="rs"/>
+</lib>
+<lib id="shirt_M_camocroptop" revision="990000518">
+<part id="4005" type="ch"/>
+<part id="4005" type="ls"/>
+<part id="4005" type="rs"/>
+</lib>
+<lib id="trousers_U_darkjoggers" revision="990000519">
+<part id="4015" type="lg"/>
+</lib>
+<lib id="trousers_U_tiedyejoggers" revision="990000520">
+<part id="4016" type="lg"/>
+</lib>
+<lib id="trousers_U_camojoggers" revision="990000521">
+<part id="4014" type="lg"/>
+</lib>
+<lib id="shirt_F_croptop" revision="990000522">
+<part id="4020" type="ch"/>
+<part id="4020" type="ls"/>
+<part id="4020" type="rs"/>
+</lib>
+<lib id="shoes_U_oxfordshoes" revision="990000523">
+<part id="3992" type="sh"/>
+<part id="3993" type="sh"/>
+<part id="3994" type="sh"/>
+</lib>
+<lib id="shoes_U_gothboots" revision="990000524">
+<part id="3990" type="sh"/>
+<part id="3991" type="sh"/>
+</lib>
+<lib id="shirt_M_croptop" revision="990000525">
+<part id="4021" type="ch"/>
+<part id="4021" type="ls"/>
+<part id="4021" type="rs"/>
+</lib>
+<lib id="trousers_U_leathertrousers" revision="990000526">
+<part id="4026" type="lg"/>
+<part id="4027" type="lg"/>
+</lib>
+<lib id="hair_U_middlepart" revision="990000527">
+<part id="4023" type="hr"/>
+<part id="4023" type="hrb"/>
+</lib>
+<lib id="trousers_U_highwaisttrousers" revision="990000528">
+<part id="3995" type="lg"/>
+</lib>
+<lib id="hat_U_hijab" revision="990000529">
+<part id="4022" type="ha"/>
+</lib>
+<lib id="hat_U_tiedyehat" revision="990000530">
+<part id="4019" type="ha"/>
+</lib>
+<lib id="hat_U_darkhat" revision="990000531">
+<part id="4018" type="ha"/>
+</lib>
+<lib id="hat_U_camohat" revision="990000532">
+<part id="4017" type="ha"/>
+</lib>
+<lib id="acc_head_U_eggearrings" revision="990000533">
+<part id="4028" type="he"/>
+<part id="4029" type="he"/>
+</lib>
+<lib id="hat_U_basichat" revision="990000534">
+<part id="4030" type="ha"/>
+<part id="4031" type="ha"/>
+</lib>
+<lib id="hat_U_frog" revision="990000535">
+<part id="4050" type="ha"/>
+<part id="4051" type="ha"/>
+<part id="4052" type="ha"/>
+</lib>
+<lib id="hat_U_patternhat" revision="990000536">
+<part id="4032" type="ha"/>
+<part id="4033" type="ha"/>
+</lib>
+<lib id="jacket_F_aviator" revision="990000537">
+<part id="4053" type="cc"/>
+<part id="4053" type="lc"/>
+<part id="4053" type="rc"/>
+<part id="4054" type="cc"/>
+<part id="4055" type="cc"/>
+</lib>
+<lib id="jacket_F_capecoat" revision="990000538">
+<part id="4059" type="cc"/>
+<part id="4059" type="lc"/>
+<part id="4059" type="rc"/>
+<part id="4060" type="cc"/>
+</lib>
+<lib id="jacket_F_hoodieplain" revision="990000539">
+<part id="4063" type="cc"/>
+<part id="4063" type="lc"/>
+<part id="4063" type="rc"/>
+<part id="4064" type="cc"/>
+</lib>
+<lib id="jacket_F_patternhoodie" revision="990000540">
+<part id="4034" type="cc"/>
+<part id="4034" type="lc"/>
+<part id="4034" type="rc"/>
+<part id="4035" type="cc"/>
+</lib>
+<lib id="jacket_M_aviator" revision="990000541">
+<part id="4056" type="cc"/>
+<part id="4056" type="lc"/>
+<part id="4056" type="rc"/>
+<part id="4057" type="cc"/>
+<part id="4058" type="cc"/>
+</lib>
+<lib id="jacket_M_capecoat" revision="990000542">
+<part id="4061" type="cc"/>
+<part id="4061" type="lc"/>
+<part id="4061" type="rc"/>
+<part id="4062" type="cc"/>
+</lib>
+<lib id="jacket_M_hoodieplain" revision="990000543">
+<part id="4065" type="cc"/>
+<part id="4065" type="lc"/>
+<part id="4065" type="rc"/>
+<part id="4066" type="cc"/>
+</lib>
+<lib id="jacket_M_patternhoodie" revision="990000544">
+<part id="4036" type="cc"/>
+<part id="4036" type="lc"/>
+<part id="4036" type="rc"/>
+<part id="4037" type="cc"/>
+</lib>
+<lib id="shirt_F_patterncroptop" revision="990000545">
+<part id="4038" type="ch"/>
+<part id="4038" type="ls"/>
+<part id="4038" type="rs"/>
+<part id="4039" type="ch"/>
+</lib>
+<lib id="shirt_F_sunsetdress" revision="990000546">
+<part id="4040" type="ch"/>
+<part id="4040" type="ls"/>
+<part id="4040" type="rs"/>
+<part id="4041" type="ch"/>
+<part id="4042" type="ch"/>
+</lib>
+<lib id="shirt_M_openshirt" revision="990000547">
+<part id="4068" type="ch"/>
+<part id="4068" type="ls"/>
+<part id="4068" type="rs"/>
+</lib>
+<lib id="shirt_M_patterncroptop" revision="990000548">
+<part id="4043" type="ch"/>
+<part id="4043" type="ls"/>
+<part id="4043" type="rs"/>
+<part id="4044" type="ch"/>
+</lib>
+<lib id="shirt_M_sunsetdress" revision="990000549">
+<part id="4045" type="ch"/>
+<part id="4045" type="ls"/>
+<part id="4045" type="rs"/>
+<part id="4046" type="ch"/>
+<part id="4047" type="ch"/>
+</lib>
+<lib id="shoes_U_nutrainer" revision="990000550">
+<part id="4069" type="sh"/>
+<part id="4070" type="sh"/>
+<part id="4071" type="sh"/>
+</lib>
+<lib id="trousers_U_futuretrack" revision="990000551">
+<part id="0" type="lg"/>
+<part id="1" type="lg"/>
+</lib>
+<lib id="trousers_U_joggersplain" revision="990000552">
+<part id="4074" type="lg"/>
+<part id="4075" type="lg"/>
+</lib>
+<lib id="trousers_U_patternjoggers" revision="990000553">
+<part id="4048" type="lg"/>
+<part id="4049" type="lg"/>
+</lib>
+<lib id="shirt_F_openshirt" revision="990000554">
+<part id="4067" type="ch"/>
+<part id="4067" type="ls"/>
+<part id="4067" type="rs"/>
+</lib>
+<lib id="shirt_F_blockcroptop" revision="990000555">
+<part id="4091" type="ch"/>
+<part id="4091" type="ls"/>
+<part id="4091" type="rs"/>
+</lib>
+<lib id="jacket_F_blockhoodie" revision="990000556">
+<part id="4093" type="cc"/>
+<part id="4093" type="lc"/>
+<part id="4093" type="rc"/>
+</lib>
+<lib id="jacket_M_blockhoodie" revision="990000557">
+<part id="4092" type="cc"/>
+<part id="4092" type="lc"/>
+<part id="4092" type="rc"/>
+</lib>
+<lib id="acc_chest_U_multibadges" revision="990000558">
+<part id="4079" type="ca"/>
+<part id="4080" type="ca"/>
+<part id="4081" type="ca"/>
+</lib>
+<lib id="acc_chest_U_chestbag" revision="990000559">
+<part id="4076" type="ca"/>
+<part id="4077" type="ca"/>
+<part id="4078" type="ca"/>
+</lib>
+<lib id="hair_U_halfcurlyhair" revision="990000560">
+<part id="4085" type="hr"/>
+<part id="4085" type="hrb"/>
+<part id="4086" type="hr"/>
+</lib>
+<lib id="hat_U_blockhat" revision="990000561">
+<part id="4089" type="ha"/>
+</lib>
+<lib id="trousers_U_blockjoggers" revision="990000562">
+<part id="4125" type="lg"/>
+</lib>
+<lib id="trousers_U_holographicskirt" revision="990000563">
+<part id="4088" type="lg"/>
+</lib>
+<lib id="hair_U_grownoutroots" revision="990000564">
+<part id="4082" type="hr"/>
+<part id="4082" type="hrb"/>
+<part id="4083" type="hr"/>
+<part id="4084" type="hr"/>
+</lib>
    <lib id="hh_human_shirt" revision="33155">
         <part id="1" type="ch" />
         <part id="1" type="rs" />
@@ -7519,6 +8072,24 @@
         <part id="11" type="ey" />
         <part id="13" type="ey" />
         <part id="14" type="ey" />
+    </lib>
+	<lib id="hh_human_fac1" revision="50491">
+        <part id="1" type="fc"/>
+        <part id="2" type="fc"/>
+        <part id="3" type="fc"/>
+        <part id="1" type="ey"/>
+        <part id="2" type="ey"/>
+        <part id="3" type="ey"/>
+        <part id="4" type="ey"/>
+        <part id="5" type="ey"/>
+        <part id="6" type="ey"/>
+        <part id="7" type="ey"/>
+        <part id="8" type="ey"/>
+        <part id="9" type="ey"/>
+        <part id="10" type="ey"/>
+        <part id="11" type="ey"/>
+        <part id="13" type="ey"/>
+        <part id="14" type="ey"/>
     </lib>
     <lib id="hh_human_50_acc_waist" revision="23512">
         <part id="1" type="wa" />
@@ -8703,4 +9274,11 @@
         <part id="4" type="hd" />
         <part id="999" type="bd" />
     </lib>
+	<lib id="hh_human_CityWeen" revision="38954">
+        <part id="2" type="bd"/>
+        <part id="2" type="rh"/>
+        <part id="2" type="lh"/>
+        <part id="5" type="hd"/>
+        <part id="1" type="sd"/>
+</lib>
 </map>
